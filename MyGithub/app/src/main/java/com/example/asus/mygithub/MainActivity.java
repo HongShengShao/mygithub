@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //第一次提交
         //更改后的提交
         //develop分支进行开发
+        //在同一个文件里面进行操作，会起冲突
     }
 }
