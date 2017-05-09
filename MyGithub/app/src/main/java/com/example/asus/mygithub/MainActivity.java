@@ -1,4 +1,4 @@
-package com.example.asus.mygithub;
+﻿package com.example.asus.mygithub;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //develop分支进行开发
         //在同一个文件里面进行操作，会起冲突
         //更改后的代码
+        //有所更改
     }
 }
